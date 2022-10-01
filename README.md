@@ -1,4 +1,4 @@
-## Olá meu nome é Thamyres 👋
+## Hey! welcome to my github profile 👋
 <div align="left">
 <a href="https://github.com/thamyresr">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=thamyresr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
