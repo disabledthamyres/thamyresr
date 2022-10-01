@@ -14,5 +14,6 @@
 
 </div>
   
-##
+
+  ![Snake animation](https://github.com/thamyresr/thamyresr/blob/output/github-contribution-grid-snake.svg)
 
